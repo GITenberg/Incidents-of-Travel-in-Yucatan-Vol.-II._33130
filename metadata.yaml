@@ -1,0 +1,28 @@
+_repo: Incidents-of-Travel-in-Yucatan-Vol.-II._33130
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephens, John L.
+    alias: Stephens, John Lloyd
+    birthdate: 1805
+    deathdate: 1852
+    gutenberg_agent_id: '39116'
+    url: http://www.gutenberg.org/2009/agents/39116
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2010-07-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1201'
+- !lcsh 'Yucatán (Mexico : State) -- Description and travel'
+title: Incidents of Travel in Yucatan, Vol. II.
+url: http://www.gutenberg.org/ebooks/33130
